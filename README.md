@@ -21,6 +21,6 @@ Para isso, passaremos pelas etapas:
 
  O projeto foi realizado utilizando Python (Python 3.10.12), principalmente bibliotecas Pandas, Numpy, matplotlib e Prophet, em um Jupyter Notebook. 
 
- ## **Modelo**
+ 
 
  
