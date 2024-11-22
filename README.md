@@ -1,11 +1,11 @@
 # Projeto London Bike - Análise da quantidade de alugueis de bicicletas realizados em um período utilizando séries temporais
 
 
- Estamos atuando como analista de dados na empresa de aluguel de bicicletas London Bike**, de Londres, procurando, após tratar a base de dados, entender quais fatores afetam a demanda por bicletas. Com esses dados**, podemos criar planos de ação especíicos para atender a clientela. 
+ Estamos atuando como analista de dados na empresa de aluguel de bicicletas London Bike**, de Londres, procurando, após tratar a base de dados e realizar análise exploratória, entender quais fatores afetam a demanda por bicletas. Com esses dados**, podemos criar planos de ação especíicos para atender a clientela. 
 
  Também foi criado, testado e ajustado um modelo que preveja a quantidade de bicicletas serão alugadas no dia ou me mês seguinte, com base em uma análise de série temporal.
 
- ** _Situação fictícia, projeto feito com base no curso da escola **Alura**_
+ ** _Projeto feito com base no curso da escola **Alura**_
 
 
  ## **Metodologia**
